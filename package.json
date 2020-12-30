@@ -2,6 +2,7 @@
   "name": "polymer-todo",
   "main": "polymer-todo.js",
   "dependencies": {
+    "@polymer/iron-ajax": "^3.0.1",
     "@polymer/iron-input": "^3.0.1",
     "@polymer/lit-element": "^0.7.1",
     "@polymer/polymer": "^3.0.0",
